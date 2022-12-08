@@ -1,6 +1,11 @@
 .container {
   padding: 0 2rem;
 }
+#section-1,
+#section-2,
+#section-3{
+  height: 90vh;
+}
 
 .main {
   min-height: 100vh;
